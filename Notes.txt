@@ -8,6 +8,14 @@ Lesson Plan
 
 --Use python in the app to style it and return a pdf response to download
   
+  <MAY REVISE>
   --PDF response must match the template.jpg
 
---Go over html to make accessible using "alt"
+--OFFER A DETAILED OPTION OR A QUICK OPTION
+
+--Prompts that we may want:
+  -Lesson time (for 90 min, 60 min, etc.)
+  -Grade level
+  -Standards(Optional)
+  -
+
